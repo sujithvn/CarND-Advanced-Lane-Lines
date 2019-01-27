@@ -46,7 +46,7 @@ Here I will consider the rubric points individually and describe how I addressed
 
 ### Writeup / README
 
-This is the writeup document for this project. It summarizes the steps involved a high level. Details for each step is available in the accompanying Jupyter Notebook. [Here](https://github.com/sujithvn/CarND-Advanced-Lane-Lines/blob/master/Advanced_Lane_Finding.md) is link to the same.  
+This is the writeup document for this project. It summarizes the steps involved a high level. Details for each step is available in the accompanying Jupyter Notebook. [Here](https://github.com/sujithvn/CarND-Advanced-Lane-Lines/blob/master/Advanced_Lane_Finding.ipynb) is link to the same.  
 
 ### Camera Calibration
 
