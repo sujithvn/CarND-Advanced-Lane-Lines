@@ -1,6 +1,9 @@
-# Project 2 - Advanced Lane Finding
+# Advanced Lane Finding
 
-#### Submitted as part of Self Driving Car Nanodegree Program by Udacity
+#### Project submitted as part of Self Driving Car Nanodegree Program by Udacity
+
+__Note:__ Detailed notebook with code & images [here](Advanced_Lane_Finding.ipynb).
+Check our more at [sujithvn.me](https://sujithvn.me)
 
 ---
 
